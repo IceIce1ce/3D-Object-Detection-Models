@@ -1,0 +1,2 @@
+# export NCCL_P2P_DISABLE=1
+CUDA_VISIBLE_DEVICES=0 python -W ignore tools/train_net.py --config-file configs/Base_Omni3D_Warehouse.yaml --dist-url tcp://0.0.0.0:12345 --num-gpus 1 DATASETS.FOLDER_NAME "Omni3D_pl" OUTPUT_DIR output/training/Warehouse

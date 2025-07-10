@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python -W ignore tools/train_net.py --eval-only --config-file checkpoints/Warehouse/config.yaml --dist-url tcp://0.0.0.0:12345 --num-gpus 1 MODEL.WEIGHTS checkpoints/Warehouse/model_recent.pth OUTPUT_DIR output/test/Warehouse

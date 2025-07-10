@@ -1,0 +1,1 @@
+python -W ignore demo/demo.py --config-file checkpoints/Warehouse/config.yaml --input-folder "datasets/Warehouse_014/test" --threshold 0.25 MODEL.WEIGHTS checkpoints/Warehouse/model_recent.pth OUTPUT_DIR output/demo
