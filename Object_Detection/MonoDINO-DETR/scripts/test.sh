@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python -W ignore tools/train_val.py --config configs/monodinodetr.yaml -e --batch_size 16

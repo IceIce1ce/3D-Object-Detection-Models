@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python -W ignore tools/train_val.py --config configs/monodetr.yaml

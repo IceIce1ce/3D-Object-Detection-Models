@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python -W ignore tools/train_net.py --config-file configs/Base_Omni3D_KITTI.yaml --dist-url tcp://0.0.0.0:12345 --num-gpus 1 OUTPUT_DIR output/training/KITTI

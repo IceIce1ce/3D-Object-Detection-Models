@@ -1,0 +1,1 @@
+python -W ignore tools/train_net.py --eval-only --config-file configs/cubercnn_DLA34_FPN_KITTI.yaml MODEL.WEIGHTS cubercnn://omni3d/cubercnn_DLA34_FPN.pth OUTPUT_DIR output/evaluation/KITTI

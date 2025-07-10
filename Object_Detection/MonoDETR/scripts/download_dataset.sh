@@ -1,0 +1,5 @@
+mkdir data/KITTIDataset/ImageSets
+wget -c  https://raw.githubusercontent.com/traveller59/second.pytorch/master/second/data/ImageSets/test.txt --no-check-certificate --content-disposition -O data/KITTIDataset/ImageSets/test.txt
+wget -c  https://raw.githubusercontent.com/traveller59/second.pytorch/master/second/data/ImageSets/train.txt --no-check-certificate --content-disposition -O data/KITTIDataset/ImageSets/train.txt
+wget -c  https://raw.githubusercontent.com/traveller59/second.pytorch/master/second/data/ImageSets/val.txt --no-check-certificate --content-disposition -O data/KITTIDataset/ImageSets/val.txt
+wget -c  https://raw.githubusercontent.com/traveller59/second.pytorch/master/second/data/ImageSets/trainval.txt --no-check-certificate --content-disposition -O data/KITTIDataset/ImageSets/trainval.txt
