@@ -1,0 +1,2 @@
+export NCCL_P2P_DISABLE=1
+python -W ignore tools/train_net.py --eval-only --config-file configs/OVMono3D_dinov2_SFP.yaml --num-gpus 2 OUTPUT_DIR output/ovmono3d_lift MODEL.WEIGHTS checkpoints/ovmono3d_lift.pth TEST.CAT_MODE "novel" DATASETS.ORACLE2D_FILES.EVAL_MODE "target_aware"

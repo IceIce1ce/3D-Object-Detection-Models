@@ -1,0 +1,80 @@
+########################################################################
+WAREHOUSE_017
+Person shape :::::
+ avg -- {'width': 0.5894285867483254, 'length': 0.6257213779707025, 'height': 1.836187067294271},
+ count -- 378000
+NovaCarter shape :::::
+ avg -- {'width': 0.7070552978742443, 'length': 0.47694291195574845, 'height': 0.5613691},
+ count -- 18000
+Transporter shape :::::
+ avg -- {'width': 1.4308630453030244, 'length': 0.6515234358100944, 'height': 0.23355722},
+ count -- 9000
+FourierGR1T2 shape :::::
+ avg -- {'width': 0.600243206625513, 'length': 0.4469707527928691, 'height': 1.6584342},
+ count -- 54000
+AgilityDigit shape :::::
+ avg -- {'width': 0.5378908362061553, 'length': 0.795680072851981, 'height': 1.7621934},
+ count -- 9000
+
+########################################################################
+WAREHOUSE_018
+Person shape :::::
+ avg -- {'width': 0.5975000993334972, 'length': 0.44692978254648325, 'height': 1.8590785761913924},
+ count -- 251963
+NovaCarter shape :::::
+ avg -- {'width': 0.7070552978742443, 'length': 0.47694291195574845, 'height': 0.5613691},
+ count -- 18000
+Transporter shape :::::
+ avg -- {'width': 1.4308630453030244, 'length': 0.6515234358100944, 'height': 0.23355722},
+ count -- 9000
+FourierGR1T2 shape :::::
+ avg -- {'width': 0.600243206625513, 'length': 0.4469707527928691, 'height': 1.6584342},
+ count -- 54000
+AgilityDigit shape :::::
+ avg -- {'width': 0.5378908362061553, 'length': 0.795680072851981, 'height': 1.7621934},
+ count -- 9000
+
+########################################################################
+WAREHOUSE_019
+Person shape :::::
+ avg -- {'width': 0.5880752341847683, 'length': 0.6098299588958752, 'height': 1.8353017791256119},
+ count -- 414000
+Forklift--1 shape :::::
+ avg -- {'width': 1.2138069038972534, 'length': 2.3133653805217143, 'height': 2.154944661372278},
+ count -- 18000
+NovaCarter shape :::::
+ avg -- {'width': 0.7070552978742443, 'length': 0.47694291195574845, 'height': 0.5613691},
+ count -- 18000
+Transporter shape :::::
+ avg -- {'width': 1.4308630453030244, 'length': 0.6515234358100944, 'height': 0.23355722},
+ count -- 9000
+FourierGR1T2 shape :::::
+ avg -- {'width': 0.600243206625513, 'length': 0.4469707527928691, 'height': 1.6584342},
+ count -- 54000
+AgilityDigit shape :::::
+ avg -- {'width': 0.5378908362061553, 'length': 0.795680072851981, 'height': 1.7621934},
+ count -- 9000
+
+########################################################################
+WAREHOUSE_020
+Person shape :::::
+ avg -- {'width': 0.587187985098129, 'length': 0.6183876433363782, 'height': 1.834964908345509},
+ count -- 450000
+Forklift--1 shape :::::
+ avg -- {'width': 1.2138069038972534, 'length': 2.3133653805217143, 'height': 2.154944661372278},
+ count -- 18000
+Forklift--2 shape :::::
+ avg -- {'width': 1.13, 'length': 1.87, 'height': 2.2.77},
+ count -- 18000
+NovaCarter shape :::::
+ avg -- {'width': 0.7070552978742443, 'length': 0.47694291195574845, 'height': 0.5613691},
+ count -- 18000
+Transporter shape :::::
+ avg -- {'width': 1.4308630453030244, 'length': 0.6515234358100944, 'height': 0.23355722},
+ count -- 9000
+FourierGR1T2 shape :::::
+ avg -- {'width': 0.600243206625513, 'length': 0.4469707527928691, 'height': 1.6584342},
+ count -- 54000
+AgilityDigit shape :::::
+ avg -- {'width': 0.5378908362061553, 'length': 0.795680072851981, 'height': 1.7621934},
+ count -- 9000

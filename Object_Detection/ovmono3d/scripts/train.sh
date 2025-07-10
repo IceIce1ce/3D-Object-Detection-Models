@@ -1,0 +1,2 @@
+export NCCL_P2P_DISABLE=1
+python -W ignore tools/train_net.py --config-file configs/OVMono3D_dinov2_SFP.yaml --num-gpus 2 OUTPUT_DIR output/ovmono3d_lift VIS_PERIOD 500 TEST.EVAL_PERIOD 2000 MODEL.STABILIZE 0.03 SOLVER.BASE_LR 0.012 SOLVER.CHECKPOINT_PERIOD 1000 SOLVER.IMS_PER_BATCH 16

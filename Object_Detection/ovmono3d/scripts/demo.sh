@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python -W ignore demo/demo.py --config-file configs/OVMono3D_dinov2_SFP.yaml --input-folder datasets/coco_examples --labels-file datasets/coco_examples/labels.json --threshold 0.45 MODEL.ROI_HEADS.NAME ROIHeads3DGDINO MODEL.WEIGHTS checkpoints/ovmono3d_lift.pth OUTPUT_DIR output/coco_examples
